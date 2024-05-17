@@ -9,8 +9,6 @@
 
 复习笔记要下载到本地的话，记得连着{filename}.assets一起下载，图片都在那里。
 
-test$\sqrt{3x-1}+(1+x)^2$啦啦啦  
-test$\sqrt{1}{2}$  
-$\sqrt{1}{2}$中文  
-$\sqrt{1}{2}$english  
-This sentence uses `$` delimiters to show math inline:test $\sqrt{3x-1}+(1+x)^2$中文
+english$\fran{a}{b}$中文  
+english $\fran{a}{b}$中文  
+english$\fran{a}{b}$ 中文  
