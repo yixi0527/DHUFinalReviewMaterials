@@ -19,3 +19,5 @@ english$\frac{a}{b}$ 中文
 $\frac{a}{b}$  
 一二三 $\frac{a}{b}$ 
 啦啦啦       $\frac{a}{b}$ 
+测试$\frac{a}{b}$测试
+测试2 $\frac{a}{b}$ 测试2
