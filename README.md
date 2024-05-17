@@ -9,15 +9,7 @@
 
 复习笔记要下载到本地的话，记得连着{filename}.assets一起下载，图片都在那里。
 
-english$\frac{a}{b}$中文  
-english $\frac{a}{b}$中文  
-english$\frac{a}{b}$ 中文  
-中文$\frac{a}{b}$english  
 中文 $\frac{a}{b}$english  
-中文$\frac{a}{b}$ english  
-啦啦啦 $\frac{a}{b}$  
-$\frac{a}{b}$  
-一二三 $\frac{a}{b}$ 
-啦啦啦       $\frac{a}{b}$ 
-测试$\frac{a}{b}$测试
-测试2 $\frac{a}{b}$ 测试2
+english $\frac{a}{b}$中文  
+english $\frac{a}{b}$ english  
+中文 $\frac{a}{b}$ 中文  
