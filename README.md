@@ -12,6 +12,6 @@
 english$\frac{a}{b}$中文  
 english $\frac{a}{b}$中文  
 english$\frac{a}{b}$ 中文  
-中文$\frac{a}{b}$english
-中文 $\frac{a}{b}$english
+中文$\frac{a}{b}$english  
+中文 $\frac{a}{b}$english  
 中文$\frac{a}{b}$ english
