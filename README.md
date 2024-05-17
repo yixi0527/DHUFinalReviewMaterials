@@ -14,4 +14,8 @@ english $\frac{a}{b}$中文
 english$\frac{a}{b}$ 中文  
 中文$\frac{a}{b}$english  
 中文 $\frac{a}{b}$english  
-中文$\frac{a}{b}$ english
+中文$\frac{a}{b}$ english  
+啦啦啦$\frac{a}{b}$  
+$\frac{a}{b}$  
+一二三 $\frac{a}{b}$ 
+啦啦啦       $\frac{a}{b}$ 
