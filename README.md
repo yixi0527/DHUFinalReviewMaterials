@@ -13,5 +13,5 @@ test$\sqrt{3x-1}+(1+x)^2$啦啦啦
 test$\sqrt{1}{2}$  
 $\sqrt{1}{2}$中文  
 $\sqrt{1}{2}$english  
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$中文
+This sentence uses `$` delimiters to show math inline:test$\sqrt{3x-1}+(1+x)^2$啦啦啦  
 
