@@ -8,8 +8,3 @@
 后面会慢慢不定时更新的啦。
 
 复习笔记要下载到本地的话，记得连着{filename}.assets一起下载，图片都在那里。
-
-中文 $\frac{a}{b}$english  
-english $\frac{a}{b}$中文  
-english $\frac{a}{b}$ english  
-中文 $\frac{a}{b}$ 中文  
