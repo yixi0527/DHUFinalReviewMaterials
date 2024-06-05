@@ -727,3 +727,8 @@ $$
 s.t. \sum\limits_{i=1}^N\alpha_iy_i = 0 \\
 \alpha_i \geq 0,i=1,2,\cdots ,N
 $$
+
+# 感知机
+
+# 逻辑回归
+
